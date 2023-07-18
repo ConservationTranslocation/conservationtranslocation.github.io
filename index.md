@@ -10,7 +10,8 @@ categories: media
 This website is dedicated to the research on conservation translocations in the Western Palearctic. 
 
 
-<img src="https://raw.githubusercontent.com/ConservationTranslocation/images/bbees/logo/graphic/transloc.png" width=25% height=25%>
+![Image](https://raw.githubusercontent.com/ConservationTranslocation/images/bbees/logo/graphic/transloc.png){:width="25%" height="25%"}
+
 
 ### What are conservation translocations?
 
@@ -20,7 +21,8 @@ In this context, this group developed IUCN SSC Guidelines for Reintroductions an
 
 ### The Transloc project
 
-<img src="https://raw.githubusercontent.com/ConservationTranslocation/images/bbees/logo/graphic/transloc.png" width=25% height=25%>
+![Image](https://raw.githubusercontent.com/ConservationTranslocation/images/bbees/logo/graphic/transloc.png){:width="25%" height="25%"}
+
 
 The Transloc project was funded BIODIVERSA+ from the BiodivRestore call for transnational research projects on “Conservation and restoration of degraded ecosystems and their biodiversity, including a focus on aquatic systems” (for more information click here). 
 
