@@ -12,8 +12,9 @@ This website is dedicated to the research on conservation translocations in the 
 
 ![Image](https://raw.githubusercontent.com/ConservationTranslocation/images/bbees/logo/graphic/transloc.png){:width="25%" height="25%"}
 
-
 ### What are conservation translocations?
+
+![Image](https://raw.githubusercontent.com/ConservationTranslocation/images/raw/main/transloc/TranslocationTypesFramework.emf)
 
 The International Union for the Conservation of Nature (IUCN) Species Survival Commission (SSC) has created a disciplinary group dedicated to conservation translocations, The Conservation Translocation Specialist Group (CTSG), with member representation spanning all continents (for more information click here). The CTSG aims to advance science, inform government policy, train practitioners, and promote the application of conservation translocations to benefit nature. These activities acknowledge social, cultural, political, and economic considerations and often align to enhance tangible benefits to society.  
 
