@@ -24,11 +24,8 @@ It includes ten partners from 7 countries.
 
 Transloc aims to investigate and quantify **how local conservation translocations affect ecological, evolutionary and sociological trajectories of restoration at multiple scales in the Western Palearctic**. It mixes large databases and accurate case studies on a wide range of taxa.
 
+{% include partners.html %}
   
 ## The TransLoc database 
 
 The **TransLoc database** currently contains information about more than 1400 populations of species that have been voluntarily translocated in the Western Palearctic to restore their viability. More info on the database and the way to access and contribute [here](http://translocations.in2p3.fr/index.php).  
-
-{% include partners.html %}
-
-
