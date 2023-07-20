@@ -18,7 +18,7 @@ According to the [Conservation Translocation Specialist Group](https://iucn-ctsg
 
 ![Image](https://raw.githubusercontent.com/ConservationTranslocation/images/bbees/logo/graphic/transloc.png){:width="20%" height="20%"}
 
-The Transloc project is a **European Project** funded by the [BiodivRestore call](https://www.biodiversa.eu/2021/10/06/2020-2021-joint-call/) (Biodiversa+, WaterJPI, H2020 [here](https://www.biodiversa.eu/2022/10/25/transloc/).  
+The Transloc project is a **European Project** funded by the [BiodivRestore call](https://www.biodiversa.eu/2021/10/06/2020-2021-joint-call/) (Biodiversa+, WaterJPI, H2020 [here](https://www.biodiversa.eu/2022/10/25/transloc/)).  
 
 It includes ten partners from 7 countries.  
 
