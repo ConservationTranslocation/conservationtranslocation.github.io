@@ -5,7 +5,7 @@ layout: post
 
 [![TransLoc Database](../assets/images/transloc.png)](http://translocations.in2p3.fr/index.php)
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated. [edit this post here](https://github.com/ConservationTranslocation/conservationtranslocation.github.io/blob/linda/_posts/2017-03-01-welcome-to-jekyll.md)
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated. [edit this post here](https://github.com/ConservationTranslocation/conservationtranslocation.github.io/blob/main/_posts/2017-03-01-welcome-to-jekyll.md)
 
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
