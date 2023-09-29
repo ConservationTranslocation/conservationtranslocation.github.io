@@ -1,5 +1,5 @@
 ---
-title:  "Launch of the Transloc project!"
+title:  "Transloc project Launched!"
 mathjax: true
 layout: post
 categories: 
@@ -9,16 +9,18 @@ categories:
 
 ![](https://raw.githubusercontent.com/ConservationTranslocation/images/main/logo/transloc_cutted.png)
 
-The multi-disciplinary project ‘Transloc - Translocations of flora and fauna for conservation and restoration: ecological, evolutionary, and socio-economic impacts, at multiple scales’ has just started! This 3-year project is funded by the joint call of BiodivERsA and WaterJPI [2020-2021 BiodivRestore](https://www.biodiversa.eu/2021/10/06/2020-2021-joint-call/) and involves 10 partners from 7 countries. 
+The multi-disciplinary project ‘Transloc - Translocations of flora and fauna for conservation and restoration: ecological, evolutionary, and socio-economic impacts, at multiple scales’, is officially underway! This three-year collaborative endeavor is funded by the joint call of BiodivERsA and WaterJPI [2020-2021 BiodivRestore](https://www.biodiversa.eu/2021/10/06/2020-2021-joint-call/) and brings together a consortium of 10 partners from 7 countries. 
 
 <img align="left" width="300" height="300" style="margin-right: 10px" src="https://raw.githubusercontent.com/ConservationTranslocation/images/main/logo/MapPartners.png"> 
-The main objective of Transloc is to **investigate and quantify how local conservation translocations affect ecological, evolutionary and sociological trajectories of restoration at multiple scales in the Western Palearctic**. It will mix different approaches, from database implementation and analyses to modelling, field monitoring, and experiments. 
+Transloc's primary aim is to **investigate and quantify how local conservation translocations affect ecological, evolutionary and sociological trajectories of restoration at multiple scales in the Western Palearctic**. The project will mix different approaches, ranging from database redesign and data analyses to modelling, field monitoring, and experiments of conservation translocations. 
 
 
-Over the past years, three research labs in France, now involved in the Transloc project, have worked together to build an online database on more than 1,300 conservation translocations in the Western Palearctic, concerning a wide range of taxa in terrestrial and aquatic habitats (e.g., mammals, birds, plants, lichens). The Transloc project will allow the further development of this database, collecting complementary data on a wider range of taxa (e.g., reptiles, amphibians, molluscs, insects…), and disseminating data to practitioners, stakeholders and researchers, increasing common knowledge on conservation translocations and advise policies.
+Over recent years, three research laboratories in France, now actively participating in the Transloc project, have collaborated to create an online database on more than 1,300 conservation translocations in the Western Palearctic, concerning a wide range of taxa in terrestrial and aquatic habitats, including mammals, birds, plants, and lichens. The Transloc project is poised to expand and enhance this database by collecting complementary data on a wider range of taxa, such as reptiles, amphibians, molluscs, and insects. Furthermore, it aims to share this data with practitioners, stakeholders and researchers, thereby increasing common knowledge on conservation translocations and offer valuable insights for policymaking.
 
 
-Additionally, a batch of ongoing well-monitored field translocations and experimental translocations will be analysed from ecological, economic, and social perspectives. All these data will be confronted with the development of shared success and performance criteria. Modelling and serious games will be performed with case studies to create translocation scenarios with local stakeholders. Networking with translocation practitioners, stakeholders (including farmers, foresters, and local representatives) and policymakers will be at the core of the project. 
+Additionally, a batch of ongoing well-monitored field translocations and experimental translocations will be analysed from ecological, economic, and social perspectives. These data will be used to establish common criteria for measuring success and performance. Modelling and serious games will be employed alongside case studies to generate translocation scenarios with local stakeholders. 
+
+At the heart of the project lies the essential task of building connections and fostering collaboration with translocation practitioners, stakeholders (encompossing farmers, foresters, and local representatives), and policymakers will be at the core of the project. 
 
 Stay tuned for fresh news about the project! 
 
