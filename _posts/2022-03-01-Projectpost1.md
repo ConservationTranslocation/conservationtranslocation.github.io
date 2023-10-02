@@ -20,7 +20,7 @@ Over recent years, three research laboratories in France, now actively participa
 
 Additionally, a batch of ongoing well-monitored field translocations and experimental translocations will be analysed from ecological, economic, and social perspectives. These data will be used to establish common criteria for measuring success and performance. Modelling and serious games will be employed alongside case studies to generate translocation scenarios with local stakeholders. 
 
-At the heart of the project lies the critical objective of establishing and building connections and nurturing collaboration with translocation practitioners, stakeholders (encompassing farmers, foresters, and local representatives), forming the project's core foundation. 
+At the heart of the project lies the critical objective of establishing and building connections and nurturing collaboration with translocation practitioners, stakeholders (encompassing farmers, foresters, and local representatives), this forms Transloc's core foundation. 
 
 Stay tuned for fresh news about the project! 
 
