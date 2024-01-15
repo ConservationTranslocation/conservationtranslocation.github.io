@@ -7,7 +7,7 @@ categories:
   - website
 ---
 
-<img align="left" width="2000" height="2000" src="https://raw.githubusercontent.com/ConservationTranslocation/images/main/transloc/ICTC2023_1.jpg">
+<img align="left" width="500" height="350" src="https://raw.githubusercontent.com/ConservationTranslocation/images/main/transloc/ICTC2023_1.jpg">
 
 **Dr. Filipa Coutinho Soares** and **Nadline Kjelsberg** presented their work at the **3rd International Conservation Translocation Conference** in Perth, Australia. They spent 5 days with around 60 other speakers, including many distinguished wildlife experts, discussing how to improve the success rates of future conservation translocation programs. Taking advantage of this amazing network of translocation experts, they divulged both the Transloc project and the TransLoc database, potentially opening doors for future collaborations.
 
