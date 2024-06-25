@@ -7,7 +7,7 @@ categories:
   - website
 ---
 
-<img align="left" width="450" height="350" style="margin: 10px" src="https://raw.githubusercontent.com/ConservationTranslocation/images/main/transloc/transloc/rangeshifter1.jpeg">   
+<img align="left" width="450" height="350" style="margin: 10px" src="https://raw.githubusercontent.com/ConservationTranslocation/images/main/transloc/transloc/transloc/rangeshifter1.jpg">   
 
 The TRANSLOC team is pleased to announce the successful completion of a dedicated workshop on the RangeShifter software, held as part of our WP4. This three-day event,  conducted by **Justin Travis**, was an exceptional opportunity for our team and other participants to gain in-depth knowledge and hands-on experience with this powerful tool.
 
